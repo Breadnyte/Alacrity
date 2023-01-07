@@ -26,6 +26,7 @@
     {"id":{"name":"spr_title_back","path":"sprites/spr_title_back/spr_title_back.yy",},"order":12,},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"order":3,},
     {"id":{"name":"spr_heal","path":"sprites/spr_heal/spr_heal.yy",},"order":17,},
+    {"id":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},"order":27,},
     {"id":{"name":"scr_remove_item","path":"scripts/scr_remove_item/scr_remove_item.yy",},"order":10,},
     {"id":{"name":"sd_jump","path":"sounds/sd_jump/sd_jump.yy",},"order":10,},
     {"id":{"name":"sd_wind","path":"sounds/sd_wind/sd_wind.yy",},"order":7,},
